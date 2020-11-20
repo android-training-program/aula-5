@@ -6,8 +6,8 @@ Podes encontrar a apresentação desta aula no speakerdeck do ATP:
 
 
 Para correres estes projectos localmente, basta abrires a pasta:
-- 05. Aula
-- 05. Exercicios
+- `05. Aula`
+- `05. Exercicios`
 
 Com o Android Studio.
 
