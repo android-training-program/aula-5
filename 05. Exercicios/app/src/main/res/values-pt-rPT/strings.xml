@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bobi</string>
+
+    <string name="welcome">Olá %s 👋</string>
+    <string name="welcome_default">Mundo</string>
+
+    <!-- Login -->
+    <string name="action_login">Authenticar</string>
+    <string name="action_save_credentials">Guardar as credenciais</string>
+
+    <string name="error_credentials_empty_username">Tens de introduzir um nome de utilizador válido</string>
+    <string name="error_credentials_empty_password">Tens de introduzir uma palavra-chave válida</string>
+    <string name="error_credentials_mismatch">Nome de utilizador e/ou palavra-chave inválidas</string>
+
+    <string name="hint_username">O teu nome de utilizador</string>
+    <string name="hint_password">A tua palavra-chave</string>
+
+    <!-- Breed -->
+    <string name="breed_name">Raça: %s</string>
+    <string name="life_span">Vida: %s</string>
+    <string name="temperament">%s</string>
+
+    <!-- Buttons -->
+    <string name="open_camera">Abrir a câmara</string>
+    <string name="open_details">Abrir os detalhes</string>
+    <string name="open_list">Abrir lista</string>
+    <string name="show_dialog">Mostrar um dialog</string>
+    <string name="show_snackbar">Mostra uma snackbar</string>
+    <string name="start_timer">Inicio</string>
+
+    <!-- Dialog -->
+    <string name="dialog_title">Bobi</string>
+    <string name="dialog_message">Mas que cães bonitos!</string>
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_action_ok_selected">Escolheste a opção ok!</string>
+    <string name="dialog_action_cancel">Cancelar</string>
+
+    <!-- Snackbar -->
+    <string name="snackbar_message">Mas que cães bonitos!</string>
+    <string name="snackbar_action_thanks">Obrigado</string>
+    <string name="snackbar_action_thanks_selected">Escolheste a opção obrigado!</string>
+
+    <string name="time_remaining">Faltam %d segundos</string>
+    <string name="time_done">Feito!</string>
+
+    <!-- Content Description -->
+    <string name="description_logo">Logo da aplicação</string>
+    <string name="description_image">Imagem de um cão</string>
+</resources>

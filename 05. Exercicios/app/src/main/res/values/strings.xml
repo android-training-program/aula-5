@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Bobi</string>
+
+    <string name="welcome">Hello %s 👋</string>
+    <string name="welcome_default">World</string>
+
+    <!-- Login -->
+    <string name="action_login">Authenticate</string>
+    <string name="action_save_credentials">Save credentials</string>
+
+    <string name="error_credentials_empty_username">Your username is empty</string>
+    <string name="error_credentials_empty_password">Your password is empty</string>
+    <string name="error_credentials_mismatch">Invalid username and/or password</string>
+
+    <string name="hint_username">Your username</string>
+    <string name="hint_password">Your password</string>
+
+    <!-- Breed -->
+    <string name="breed_name">Breed: %s</string>
+    <string name="life_span">Lives about: %s</string>
+    <string name="temperament">%s</string>
+
+    <!-- Buttons -->
+    <string name="open_camera">Open camera</string>
+    <string name="open_details">Open details</string>
+    <string name="open_list">Open list</string>
+    <string name="show_dialog">Show dialog</string>
+    <string name="show_snackbar">Show snackbar</string>
+    <string name="start_timer">Start</string>
+
+    <!-- Dialog -->
+    <string name="dialog_title">Bobi</string>
+    <string name="dialog_message">What a beautiful dog!</string>
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_action_ok_selected">You selected OK!</string>
+    <string name="dialog_action_cancel">Cancel</string>
+
+    <!-- Snackbar -->
+    <string name="snackbar_message">What a beautiful dog!</string>
+    <string name="snackbar_action_thanks">Thank you</string>
+    <string name="snackbar_action_thanks_selected">You selected Thank you!</string>
+
+    <string name="time_remaining">Remaining %d seconds</string>
+    <string name="time_done">Finished!</string>
+
+    <!-- Content Description -->
+    <string name="description_logo">Application logo</string>
+    <string name="description_image">Image of a dog</string>
+</resources>
